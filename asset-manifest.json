@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ShopTechStore/static/css/main.e6c13ad2.css",
-    "main.js": "/ShopTechStore/static/js/main.a6dbf0cf.js",
+    "main.js": "/ShopTechStore/static/js/main.cb714d7f.js",
     "static/js/787.34115356.chunk.js": "/ShopTechStore/static/js/787.34115356.chunk.js",
     "index.html": "/ShopTechStore/index.html",
     "main.e6c13ad2.css.map": "/ShopTechStore/static/css/main.e6c13ad2.css.map",
-    "main.a6dbf0cf.js.map": "/ShopTechStore/static/js/main.a6dbf0cf.js.map",
+    "main.cb714d7f.js.map": "/ShopTechStore/static/js/main.cb714d7f.js.map",
     "787.34115356.chunk.js.map": "/ShopTechStore/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a6dbf0cf.js"
+    "static/js/main.cb714d7f.js"
   ]
 }
