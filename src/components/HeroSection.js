@@ -25,9 +25,9 @@ const HeroSection = ({ myData }) => {
           <div className="hero-section-image">
             <figure>
               <img
-                src="images/hero.jpg"
-                alt="hero-sections"
                 className="img-style"
+                src="https://www.supplychainmovement.com/wp-content/uploads/2021/03/online-shopping.jpeg"
+                alt="herosection"
               />
             </figure>
           </div>
